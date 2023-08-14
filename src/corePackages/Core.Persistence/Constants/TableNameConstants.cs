@@ -41,6 +41,7 @@
         public const string CART_SHIPPING_RATE = "CartShippingRates";
         public const string CATALOG_RULE = "CatalogRules";
         public const string CATALOG_RULE_CHANNEL = "CatalogRuleChannels";
+        public const string CATALOG_RULE_CUSTOMER_GROUP = "CatalogRuleCustomerGroups";
 
     }
 }
