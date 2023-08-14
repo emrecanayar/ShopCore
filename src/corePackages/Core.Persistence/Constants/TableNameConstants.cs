@@ -44,6 +44,7 @@
         public const string CATALOG_RULE_CUSTOMER_GROUP = "CatalogRuleCustomerGroups";
         public const string CATALOG_RULE_PRODUCT = "CatalogRuleProducts";
         public const string CATALOG_RULE_PRODUCT_PRICE = "CatalogRuleProductPrices";
+        public const string CATEGORY = "Categories";
 
     }
 }
