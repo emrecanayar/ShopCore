@@ -29,6 +29,7 @@
         public const string BOOKING_PRODUCT_TABLE_SLOT = "BookingProductTableSlots";
         public const string CART = "Carts";
         public const string CART_ITEM = "CartItems";
+        public const string CART_ITEM_INVENTORY = "CartItemInventories";
 
     }
 }
