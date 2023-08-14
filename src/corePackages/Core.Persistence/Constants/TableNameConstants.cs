@@ -22,6 +22,7 @@
         public const string BOOKING = "Bookings";
         public const string BOOKING_PRODUCT = "BookingProducts";
         public const string BOOKING_PRODUCT_APPOINTMENT_SLOT = "BookingProductAppointmentSlots";
+        public const string BOOKING_PRODUCT_DEFAULT_SLOT = "BookingProductDefaultSlots";
 
     }
 }
