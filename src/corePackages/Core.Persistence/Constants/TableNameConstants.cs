@@ -27,6 +27,7 @@
         public const string BOOKING_PRODUCT_EVENT_TICKET_TRANSLATION = "BookingProductEventTicketTranslations";
         public const string BOOKING_PRODUCT_RENTAL_SLOT = "BookingProductRentalSlots";
         public const string BOOKING_PRODUCT_TABLE_SLOT = "BookingProductTableSlots";
+        public const string CART = "Carts";
 
     }
 }
