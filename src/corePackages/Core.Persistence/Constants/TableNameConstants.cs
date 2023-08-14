@@ -37,6 +37,7 @@
         public const string CART_RULE_COUPON_USAGE = "CartRuleCouponUsages";
         public const string CART_RULE_CUSTOMER = "CartRuleCustomers";
         public const string CART_RULE_CUSTOMER_GROUP = "CartRuleCustomerGroups";
+        public const string CART_RULE_TRANSLATION = "CartRuleTranslations";
 
     }
 }
