@@ -31,6 +31,7 @@
         public const string CART_ITEM = "CartItems";
         public const string CART_ITEM_INVENTORY = "CartItemInventories";
         public const string CART_PAYMENT = "CartPayments";
+        public const string CART_RULE = "CartRules";
 
     }
 }
