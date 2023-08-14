@@ -15,6 +15,7 @@
         public const string ADMIN = "Admins";
         public const string ATTRIBUTE = "Attributes";
         public const string ATTRIBUTE_FAMILY = "AttributeFamily";
+        public const string ATTRIBUTE_GROUP = "AttributeGroups";
 
     }
 }
