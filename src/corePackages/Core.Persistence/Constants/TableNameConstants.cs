@@ -12,6 +12,8 @@
         public const string DICTIONARY = "Dictionaries";
         public const string LOG = "Logs";
         public const string ADDRESS = "Addresses";
+        public const string ADMIN = "Admins";
+        public const string ATTRIBUTE = "Attributes";
 
     }
 }
