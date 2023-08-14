@@ -17,6 +17,7 @@
         public const string ATTRIBUTE_FAMILY = "AttributeFamily";
         public const string ATTRIBUTE_GROUP = "AttributeGroups";
         public const string ATTRIBUTE_GROUP_MAPPING = "AttributeGroupMappings";
+        public const string ATTRIBUTE_OPTION = "AttributeOptions";
 
     }
 }
