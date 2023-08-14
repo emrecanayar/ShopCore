@@ -21,6 +21,7 @@
         public const string ATTRIBUTE_OPTION_TRANSLATION = "AttributeOptionTranslations";
         public const string BOOKING = "Bookings";
         public const string BOOKING_PRODUCT = "BookingProducts";
+        public const string BOOKING_PRODUCT_APPOINTMENT_SLOT = "BookingProductAppointmentSlots";
 
     }
 }
