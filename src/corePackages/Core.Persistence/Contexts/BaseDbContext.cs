@@ -1,9 +1,10 @@
-﻿using Core.Domain.Entities.Base;
+using Core.Domain.Entities.Base;
 using Core.Persistence.Extensions;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using System.Reflection;
+using Core.Domain.Entities;
 
 namespace Core.Persistence.Contexts
 {
