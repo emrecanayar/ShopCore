@@ -40,6 +40,7 @@
         public const string CART_RULE_TRANSLATION = "CartRuleTranslations";
         public const string CART_SHIPPING_RATE = "CartShippingRates";
         public const string CATALOG_RULE = "CatalogRules";
+        public const string CATALOG_RULE_CHANNEL = "CatalogRuleChannels";
 
     }
 }
