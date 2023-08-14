@@ -35,6 +35,7 @@
         public const string CART_RULE_CHANNEL = "CartRuleChannels";
         public const string CART_RULE_COUPON = "CartRuleCoupons";
         public const string CART_RULE_COUPON_USAGE = "CartRuleCouponUsage";
+        public const string CART_RULE_CUSTOMER = "CartRuleCustomers";
 
     }
 }
