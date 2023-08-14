@@ -34,8 +34,9 @@
         public const string CART_RULE = "CartRules";
         public const string CART_RULE_CHANNEL = "CartRuleChannels";
         public const string CART_RULE_COUPON = "CartRuleCoupons";
-        public const string CART_RULE_COUPON_USAGE = "CartRuleCouponUsage";
+        public const string CART_RULE_COUPON_USAGE = "CartRuleCouponUsages";
         public const string CART_RULE_CUSTOMER = "CartRuleCustomers";
+        public const string CART_RULE_CUSTOMER_GROUP = "CartRuleCustomerGroups";
 
     }
 }
