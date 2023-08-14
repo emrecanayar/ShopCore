@@ -18,6 +18,7 @@
         public const string ATTRIBUTE_GROUP = "AttributeGroups";
         public const string ATTRIBUTE_GROUP_MAPPING = "AttributeGroupMappings";
         public const string ATTRIBUTE_OPTION = "AttributeOptions";
+        public const string ATTRIBUTE_OPTION_TRANSLATION = "AttributeOptionTranslations";
 
     }
 }
