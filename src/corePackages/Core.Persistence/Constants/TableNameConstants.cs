@@ -39,6 +39,7 @@
         public const string CART_RULE_CUSTOMER_GROUP = "CartRuleCustomerGroups";
         public const string CART_RULE_TRANSLATION = "CartRuleTranslations";
         public const string CART_SHIPPING_RATE = "CartShippingRates";
+        public const string CATALOG_RULE = "CatalogRules";
 
     }
 }
