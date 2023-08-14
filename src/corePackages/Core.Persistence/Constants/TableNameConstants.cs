@@ -33,6 +33,7 @@
         public const string CART_PAYMENT = "CartPayments";
         public const string CART_RULE = "CartRules";
         public const string CART_RULE_CHANNEL = "CartRuleChannels";
+        public const string CART_RULE_COUPON = "CartRuleCoupons";
 
     }
 }
