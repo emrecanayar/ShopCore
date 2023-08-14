@@ -14,6 +14,7 @@
         public const string ADDRESS = "Addresses";
         public const string ADMIN = "Admins";
         public const string ATTRIBUTE = "Attributes";
+        public const string ATTRIBUTE_FAMILY = "AttributeFamily";
 
     }
 }
