@@ -42,6 +42,7 @@
         public const string CATALOG_RULE = "CatalogRules";
         public const string CATALOG_RULE_CHANNEL = "CatalogRuleChannels";
         public const string CATALOG_RULE_CUSTOMER_GROUP = "CatalogRuleCustomerGroups";
+        public const string CATALOG_RULE_PRODUCT = "CatalogRuleProducts";
 
     }
 }
