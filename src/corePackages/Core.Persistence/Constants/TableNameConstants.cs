@@ -46,6 +46,7 @@
         public const string CATALOG_RULE_PRODUCT_PRICE = "CatalogRuleProductPrices";
         public const string CATEGORY = "Categories";
         public const string CATEGORY_FILTERABLE_ATTRIBUTES = "CategoryFilterableAttributes";
+        public const string CATEGORY_TRANSLATION = "CategoryTranslations";
 
     }
 }
